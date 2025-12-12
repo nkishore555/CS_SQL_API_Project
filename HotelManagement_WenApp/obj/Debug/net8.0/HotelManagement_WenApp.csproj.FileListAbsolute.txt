@@ -1,0 +1,14 @@
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.AssemblyInfoInputs.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.AssemblyInfo.cs
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.csproj.CoreCompileInputs.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.RazorAssemblyInfo.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.RazorAssemblyInfo.cs
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.sourcelink.json
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\scopedcss\bundle\HotelManagement_WenApp.styles.css
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\scopedcss\projectbundle\HotelManagement_WenApp.bundle.scp.css
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.dll
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\refint\HotelManagement_WenApp.dll
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement_WenApp\obj\Debug\net8.0\HotelManagement_WenApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\bin\Debug\net8.0\HotelManagement.Domain.deps.json
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\bin\Debug\net8.0\HotelManagement.Domain.dll
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\bin\Debug\net8.0\HotelManagement.Domain.pdb
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.AssemblyInfo.cs
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.sourcelink.json
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.dll
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\refint\HotelManagement.Domain.dll
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\HotelManagement.Domain.pdb
+C:\Users\someswarao.m\source\repos\HotelManagement\HotelManagement.Domain\obj\Debug\net8.0\ref\HotelManagement.Domain.dll

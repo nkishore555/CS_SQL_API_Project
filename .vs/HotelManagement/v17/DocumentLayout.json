@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE892C99-8B70-468D-BCE1-D15F3B56B226}|ClassLibrary1\\Infrastracture.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\classlibrary1\\menuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE892C99-8B70-468D-BCE1-D15F3B56B226}|ClassLibrary1\\Infrastracture.csproj|solutionrelative:classlibrary1\\menuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0897832-546B-4B59-B3C1-B76B2E1BA9C6}|Application\\Application.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\application\\interfaces\\menudetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0897832-546B-4B59-B3C1-B76B2E1BA9C6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\menudetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E7878-2504-4319-A173-99757969BE73}|HotelManagementAPI\\HotelManagementAPI.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\hotelmanagementapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E7878-2504-4319-A173-99757969BE73}|HotelManagementAPI\\HotelManagementAPI.csproj|solutionrelative:hotelmanagementapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001E7878-2504-4319-A173-99757969BE73}|HotelManagementAPI\\HotelManagementAPI.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\hotelmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001E7878-2504-4319-A173-99757969BE73}|HotelManagementAPI\\HotelManagementAPI.csproj|solutionrelative:hotelmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2836428-503D-4379-8F3F-F01DD5728C84}|HotelManagement\\HotelManagement.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2836428-503D-4379-8F3F-F01DD5728C84}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C24DE76-3E81-45CE-BF44-272061EB14AE}|HotelManagement.Domain\\HotelManagement.Domain.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\hotelmanagement.domain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C24DE76-3E81-45CE-BF44-272061EB14AE}|HotelManagement.Domain\\HotelManagement.Domain.csproj|solutionrelative:hotelmanagement.domain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE892C99-8B70-468D-BCE1-D15F3B56B226}|ClassLibrary1\\Infrastracture.csproj|c:\\users\\someswarao.m\\source\\repos\\hotelmanagement\\classlibrary1\\infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE892C99-8B70-468D-BCE1-D15F3B56B226}|ClassLibrary1\\Infrastracture.csproj|solutionrelative:classlibrary1\\infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAmwGsCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-12T13:04:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagement.Domain\\Orders.cs",
+              "RelativeDocumentMoniker": "HotelManagement.Domain\\Orders.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagement.Domain\\Orders.cs",
+              "RelativeToolTip": "HotelManagement.Domain\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:17:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagementAPI\\Program.cs",
+              "RelativeToolTip": "HotelManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:16:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagementAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "HotelManagementAPI\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagementAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "HotelManagementAPI\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:08:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeToolTip": "HotelManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:05:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuServices.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\ClassLibrary1\\MenuServices.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\MenuServices.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\ClassLibrary1\\MenuServices.cs",
+              "RelativeToolTip": "ClassLibrary1\\MenuServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:04:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\Application\\Interfaces\\MenuDetailsResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\MenuDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\Application\\Interfaces\\MenuDetailsResponse.cs",
+              "RelativeToolTip": "Application\\Interfaces\\MenuDetailsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T13:54:24.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infrastracture.csproj",
+              "DocumentMoniker": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\ClassLibrary1\\Infrastracture.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Infrastracture.csproj",
+              "ToolTip": "C:\\Users\\someswarao.m\\source\\repos\\HotelManagement\\ClassLibrary1\\Infrastracture.csproj",
+              "RelativeToolTip": "ClassLibrary1\\Infrastracture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T16:00:36.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

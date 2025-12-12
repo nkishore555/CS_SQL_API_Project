@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotelManagement_WenApp.props" />
+</Project>
